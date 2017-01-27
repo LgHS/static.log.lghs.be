@@ -1,0 +1,9 @@
+title = "LgHs Log"
+baseurl = "http://log.lghs.be/"
+languageCode = "fr-BE"
+theme = "purehugo"
+Paginate = 10
+
+[params]
+  twitterName = "LgHackerSpace"
+  githubName = "LgHS"
